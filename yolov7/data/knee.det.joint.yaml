@@ -1,0 +1,6 @@
+# the knee detect joint dataset
+train: ./KneeDetJoint/train.txt
+val: ./KneeDetJoint/val.txt
+test: ./KneeDetJoint/test.txt
+nc: 5
+names: ['0','1','2','3','4']

@@ -1,6 +1,6 @@
 # @Time    : 2022/12/14 0014 20:07
 # @Author  : TAO XU
-# @File    : CGNN.py
+# @File    : DFGR.py
 import argparse
 import torch
 import torch.nn as nn
