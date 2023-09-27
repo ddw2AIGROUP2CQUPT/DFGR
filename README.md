@@ -1,5 +1,5 @@
-#Information
-https://github-stats.ubrong.com/apiusername=jeojava&show_icons=true
+# Information
+![Info](https://github-stats.ubrong.com/apiusername=jeojava&show_icons=true)
 
 # DFGR
 Deep Feature Graph Representation for Predicting Knee Osteoarthritis
