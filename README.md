@@ -8,6 +8,6 @@ Data used in this article were obtained from the Osteoarthritis Initiative (OAI)
 coming soon
 # Credibility
 Main issue with artificial intelligence models is not only accuracy but also the credibility of their decisions.
-![image](pic/heatmap.png)
+![image](pic/heatmap.jpg)
 # more 
 coming soon
