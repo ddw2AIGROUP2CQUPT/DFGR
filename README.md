@@ -15,15 +15,16 @@ OAI was divided into:
 | Training set | 2759 | 1278 | 1900 |  992 | 236 | 7165  |
 | test set     |  689 | 319  | 474  |  247 | 59  | 1788  |
 | Total        | 3488 | 1597 | 2374 | 1239 | 295 | 8953  |
+
 # Performance
 
-YOLOv7-tiny inference results with IoU:
+## YOLOv7-tiny inference results with IoU:
 ![image](pic/yolodetect.jpg)
 
-The results for DFGR:
+## The results for DFGR:
 coming soon  =_=
 
-The results for Ensemble Model & Comparison with sota in OAI(end-to-end):
+## The results for Ensemble Model & Comparison with sota in OAI(end-to-end):
 coming soon  =_=
 
 # Credibility
@@ -31,6 +32,6 @@ Main issue with artificial intelligence models is not only accuracy but also the
 ![image](pic/heatmap.jpg)
 # more 
 
-Comparison with doctors:
+## Comparison with doctors:
 
 coming soon  =_=
