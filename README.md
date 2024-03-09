@@ -7,9 +7,8 @@ Data used in this article were obtained from the Osteoarthritis Initiative (OAI)
 
 OAI was divided into:
 
-| 居中对齐         | 居中对齐 | 居中对齐 | 居中对齐 | 居中对齐 | 居中对齐 | 居中对齐  |
-|:-------------|-----:|:----:|:-----|-----:|:----:|:-----:|
 |              |  KLO | KL1  | KL2  |  KL3 | KL4  | Total |
+|:-------------|-----:|:----:|:-----|-----:|:----:|:-----:|
 | Training set | 2759 | 1278 | 1900 |  992 | 236  | 7165  |
 # Performance
 coming soon
