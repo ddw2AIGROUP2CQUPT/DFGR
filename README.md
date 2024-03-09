@@ -15,6 +15,7 @@ OAI was divided into:
 | Training set | 2759 | 1278 | 1900 |  992 | 236 | 7165  |
 | test set     |  689 | 319  | 474  |  247 | 59  | 1788  |
 | Total        | 3488 | 1597 | 2374 | 1239 | 295 | 8953  |
+
 # Performance
 
 ## YOLOv7-tiny inference results with IoU:
