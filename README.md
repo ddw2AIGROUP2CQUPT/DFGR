@@ -34,3 +34,7 @@ Main issue with artificial intelligence models is not only accuracy but also the
 
 ### Comparison with doctors:
 coming soon  =_=
+
+### paper
+[论文链接](https://ieeexplore.ieee.org/xpl/conhome/10498130/proceeding)
+
